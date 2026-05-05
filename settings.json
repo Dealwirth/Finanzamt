@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Finanzamt",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "62248",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "NummerX.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
