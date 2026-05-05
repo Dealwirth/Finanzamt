@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Finanzamt",
-    "password": "62248",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "NummerX.aternos.me",
-    "port": 27586,
+    "port": 62248,
     "version": "",
     "try-creative": false
   },
